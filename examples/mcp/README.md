@@ -1,7 +1,7 @@
 # Parallel Search
 
 `parallel_search.py` connects the existing `MCPHandler` and `Engine` to
-[Parallel Search MCP](https://docs.parallel.ai/search/mcp). Search is free and
+[Parallel Search MCP](https://docs.parallel.ai/integrations/mcp/search-mcp). Search is free and
 requires no Parallel API key. This example is opt-in; run it explicitly or import
 `create_handler()` into your own engine. Existing handlers and provider defaults
 are unchanged.
